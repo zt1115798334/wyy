@@ -8,9 +8,9 @@
     <meta name="Keywords" content="">
     <meta name="Description" content="">
     <title>index</title>
-    <link href="/css/index.css" rel="stylesheet" />
+    <link href="/css/index.css" rel="stylesheet"/>
 </head>
-<body>
+<body class="background-image">
 <div class="ctn">
     <ul>
         <li></li>
